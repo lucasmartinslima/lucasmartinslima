@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmartinslima
-- 👀 I’m interested in Java Backend, Python tools 
+- 👀 I’m interested in Java Backend, Python tools and Android apps
 - 🌱 I’m currently learning Android(Kotlin)
 - 📫 How to reach me: lucas18martins0@gmail.com
 
